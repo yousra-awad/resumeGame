@@ -10,7 +10,7 @@ __all__ = [
 
 __title__ = "pipfile"
 __summary__ = ""
-__uri__ = "https://github.com/pypa/pipfile"
+__uri__ = "https://github.com/yousra-awad/resumeGame/tree/main/Original/pipfile"
 
 __version__ = "0.0.1"
 
